@@ -1,0 +1,1 @@
+Las herramientas del módulo reutilizable deben importarse directamente desde `../../src/tools/proveedor.ts` para evitar mantener una copia divergente. La implementación usa rutas relativas al directorio del proyecto entregado en `ctx.directory`.
